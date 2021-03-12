@@ -1,5 +1,5 @@
 # ReactApp
-&nbsp;
+
 ## Esse é um repositório teste para conclusão de uma tarefa do curso de DEV utilizando a Tecnologia "REACT".
 #### O que é REACT?
 ##### O React é a biblioteca mais popular do JavaScript e é usada para construir uma interface de usuário (IU). Ela oferece uma resposta excelente para o usuário adicionar comandos usando um novo método de renderizar sites.
