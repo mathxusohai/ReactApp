@@ -1,0 +1,11 @@
+footer{
+    border: 1px solid #010205;
+    background-color: blueviolet;
+    border-radius: 4px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-weight: bold;
+}

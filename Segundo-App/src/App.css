@@ -1,0 +1,7 @@
+.App {
+  background-image: url(https://media.istockphoto.com/photos/blue-nebula-picture-id596348958?k=6&m=596348958&s=170667a&w=0&h=q1VIH3vYgXSAc1tR2pbBfXW4hVy9GiyQ9SNVyxQLgIQ=);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+}

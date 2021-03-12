@@ -1,0 +1,9 @@
+.home-page{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(147, 139, 158);
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    border-radius: 10px;
+}
